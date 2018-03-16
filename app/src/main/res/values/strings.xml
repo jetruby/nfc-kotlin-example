@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFCExample</string>
+    <string name="message_beaming_complete">Beaming complete</string>
+    <string name="hint_your_message">Your message</string>
+    <string name="label_your_message">Outgoing NFC message:</string>
+    <string name="title_btn_set">Set Message</string>
+</resources>
